@@ -1,5 +1,6 @@
 # About-Our-Data
 Help understanding the data in this repository.  
+- [What kind of data is hosted here?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-kind-of-data-is-hosted-here)
 
 ## What kind of data is hosted here?
 
