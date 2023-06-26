@@ -1,6 +1,13 @@
 # About-Our-Data
 Help understanding the data in this repository.  
 - [What kind of data is hosted here?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-kind-of-data-is-hosted-here)
+- [What is a FITS image?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-is-a-fits-image)
+- [What is a data image?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-is-a-data-image)
+- [What is a calibration image?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-is-a-calibration-image)
+- [What are the types of calibration images?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-are-the-types-of-calibration-images)
+- [What is a flat calibration image?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-is-a-flat-calibration-image)
+- [What is a dark calibration image?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-is-a-dark-calibration-image)
+- [What is a bias calibration image?](https://github.com/BSU-PPOE/About-Our-Data/blob/main/README.md#what-is-a-bias-calibration-image)
 
 ## What kind of data is hosted here?
 
